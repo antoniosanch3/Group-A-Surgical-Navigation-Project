@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="carnejoven" size="85.000000 133.043472" />
+    <ImageTarget name="renfe_card" size="85.000000 55.217392" />
+  </Tracking>
+</QCARConfig>

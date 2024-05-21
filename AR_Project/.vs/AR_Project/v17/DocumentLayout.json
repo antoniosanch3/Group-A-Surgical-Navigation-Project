@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anton\\Desktop\\AR_Project\\AR_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anton\\Desktop\\AR_Project\\AR_Project\\Assets\\Transparency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Transparency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anton\\Desktop\\AR_Project\\AR_Project\\Assets\\ShowModelHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\ShowModelHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anton\\Desktop\\AR_Project\\AR_Project\\Assets\\ShowCTImage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\ShowCTImage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anton\\Desktop\\AR_Project\\AR_Project\\Assets\\TumorBoxGenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\TumorBoxGenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TumorBoxGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\AR_Project\\AR_Project\\Assets\\TumorBoxGenerator.cs",
+              "RelativeDocumentMoniker": "Assets\\TumorBoxGenerator.cs",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\AR_Project\\AR_Project\\Assets\\TumorBoxGenerator.cs",
+              "RelativeToolTip": "Assets\\TumorBoxGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T08:46:36.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShowCTImage.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\AR_Project\\AR_Project\\Assets\\ShowCTImage.cs",
+              "RelativeDocumentMoniker": "Assets\\ShowCTImage.cs",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\AR_Project\\AR_Project\\Assets\\ShowCTImage.cs",
+              "RelativeToolTip": "Assets\\ShowCTImage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T08:35:44.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShowModelHandler.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\AR_Project\\AR_Project\\Assets\\ShowModelHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\ShowModelHandler.cs",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\AR_Project\\AR_Project\\Assets\\ShowModelHandler.cs",
+              "RelativeToolTip": "Assets\\ShowModelHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T19:56:55.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Transparency.cs",
+              "DocumentMoniker": "C:\\Users\\anton\\Desktop\\AR_Project\\AR_Project\\Assets\\Transparency.cs",
+              "RelativeDocumentMoniker": "Assets\\Transparency.cs",
+              "ToolTip": "C:\\Users\\anton\\Desktop\\AR_Project\\AR_Project\\Assets\\Transparency.cs",
+              "RelativeToolTip": "Assets\\Transparency.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T17:18:09.052Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
